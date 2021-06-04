@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Stani
-- 👀 I’m interested in coding and knitting
-- 🌱 I’m currently interessted in knowledge managment 
-
 
 <!---
 ConstanzeMaass2610/ConstanzeMaass2610 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
