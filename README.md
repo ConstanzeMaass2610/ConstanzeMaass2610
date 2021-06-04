@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stani
 - 👀 I’m interested in coding and knitting
-- 🌱 I’m currently learning knowledge managment an tracking knowlege for an Team
+- 🌱 I’m currently interessted in knowledge managment 
 
 
 <!---
